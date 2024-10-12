@@ -7,11 +7,11 @@ class Biblioteca():
         self.direccion_biblioteca = direccion_biblioteca
         self.telefono_biblioteca = telefono_biblioteca
     
-    def buscar_libro(identificacion):
+    def buscar_libro():
         pass
     
-    def prestar_libro(self):
+    def prestar_libro():
         pass
     
-    def devolver_libro(self):
+    def devolver_libro():
         pass
